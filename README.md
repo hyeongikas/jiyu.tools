@@ -50,7 +50,7 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 
 ## Acknowledgments
 
-This project is based on [Dank.Tools]([https://dank.tools](https://github.com/SirDank/dank.tool)) and utilizes the [Dankware](https://github.com/SirDank/dankware) library.
+This project is based on [Dank.Tools]([https://dank.tools](https://github.com/SirDank/dank.tool)) and utilises the [Dankware](https://github.com/SirDank/dankware) library.
 
 ## License
 
