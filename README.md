@@ -14,7 +14,7 @@ Jiyu CLI is a command-line interface (CLI) tool built testing sandbox for me uti
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/jiyu-cli.git
+    git clone [https://github.com/your_username/jiyu-cli.git](https://github.com/hyeongikas/jiyu.tools.git)
     ```
 
 2. Navigate to the project directory:
