@@ -1,5 +1,5 @@
 
-# Jiyu CLI
+# jiyu.tools (Jiyu CLI)
 
 Jiyu CLI is a command-line interface (CLI) tool built testing sandbox for me utilising Python that provides various functionalities.
 
